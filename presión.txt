@@ -1,0 +1,17 @@
+    	
+    Quantity : 1pc
+    Size: 21mm x 18mm
+    1.8V to 3.6V Supply Voltage
+    Max I2C Speed: 3.5Mhz
+    Low power consumption - 0.5uA at 1Hz
+    I2C interface
+    Very low noise - up to 0.02hPa (17cm)
+    Full calibrated
+    Pressure Range: 300hPa to 1100hPa (+9000m to -500m)
+
+ 
+Package includes:
+
+ 
+
+    1PC X BMP180 Digital Barometric Pressure Sensor Board Module 
